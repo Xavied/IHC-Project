@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637539721450890802
-    m_Hash: 3545408195
+      ticks: 637539733550443877
+    m_Hash: 1660515972
   m_LockFileStatus:
     m_FilePath: D:/unityfiles/RA_IHC_Project/IHC-Project/Proyect_Model/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637539721472542700
-    m_Hash: 3691309652
+      ticks: 637539733550443877
+    m_Hash: 190209669
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
