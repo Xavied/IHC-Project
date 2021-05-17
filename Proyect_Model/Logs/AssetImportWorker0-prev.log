@@ -1,0 +1,227 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16222 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programas\Unity\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/unityfiles/RA_IHC_Project/IHC-Project/Proyect_Model
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60431
+Successfully changed project path to: D:/unityfiles/RA_IHC_Project/IHC-Project/Proyect_Model
+D:/unityfiles/RA_IHC_Project/IHC-Project/Proyect_Model
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path D:/Programas/Unity/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unityfiles/RA_IHC_Project/IHC-Project/Proyect_Model/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'D:/Programas/Unity/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programas/Unity/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programas/Unity/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programas/Unity/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001094 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.442 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.923900 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.721800 ms  DeleteObjects: 0.053100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Museo/Figuras
+  artifactKey: Guid(2ea3ba30b5b771543a44494d54e0633a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Figuras using Guid(2ea3ba30b5b771543a44494d54e0633a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3b7bed8c750f567c6c06dbc95d1a97') in 0.013600 seconds
+  Import took 0.015249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Museo/Figuras/RicCerealUwU.jpg
+  artifactKey: Guid(5f66f8267561a034aaa4e9d396b8cf91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Figuras/RicCerealUwU.jpg using Guid(5f66f8267561a034aaa4e9d396b8cf91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09b9261ddbf8b276410d109daefa32a') in 0.110847 seconds
+  Import took 0.112343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Museo/Figuras/Arbol.obj
+  artifactKey: Guid(fe4d61e0e28a2c54b9a041589611b27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Figuras/Arbol.obj using Guid(fe4d61e0e28a2c54b9a041589611b27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccc4d838f14d577eb7c5e38a56c713a') in 0.282597 seconds
+  Import took 0.284702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Museo/Figuras/cam.obj
+  artifactKey: Guid(1cd6d1ffec4dd6744b8c1cb77675454d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Figuras/cam.obj using Guid(1cd6d1ffec4dd6744b8c1cb77675454d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57746546a782215e84ce0073d4020e09') in 0.038773 seconds
+  Import took 0.040336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.503350 seconds.
+  path: Assets/Museo/Figuras/Materials
+  artifactKey: Guid(29230d858a9c7e647a5fbf1b8f597535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Figuras/Materials using Guid(29230d858a9c7e647a5fbf1b8f597535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf288b0d8ef85ea271089180b44fb7f5') in 0.002537 seconds
+  Import took 0.004476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.553588 seconds.
+  path: Assets/Museo/Materiales
+  artifactKey: Guid(24843c438690a22488cc5f24cde2de81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales using Guid(24843c438690a22488cc5f24cde2de81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb5d38da8a2f63bbd5e20dc300c9df8') in 0.002174 seconds
+  Import took 0.004063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053143 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol 1.mat
+  artifactKey: Guid(47033faced78e544b8fa3abe5345c07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol 1.mat using Guid(47033faced78e544b8fa3abe5345c07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7ef6e84a7510c811fcdd4e63e23eeb') in 0.039014 seconds
+  Import took 0.040783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Museo/Materiales/PuertaMat.mat
+  artifactKey: Guid(85a7ea02bb2073e448ef8901081904c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/PuertaMat.mat using Guid(85a7ea02bb2073e448ef8901081904c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c8e9cb6d7750cd252fb2ccd4afceab') in 0.007612 seconds
+  Import took 0.009902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol 5.mat
+  artifactKey: Guid(cbdadf5ca40608b409d7efb9816268de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol 5.mat using Guid(cbdadf5ca40608b409d7efb9816268de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f70fd926a82a572c68e913ec8f2482b') in 0.033288 seconds
+  Import took 0.034929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol 2.mat
+  artifactKey: Guid(d758d2f07e66ae74485c79a770b8f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol 2.mat using Guid(d758d2f07e66ae74485c79a770b8f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847c8d25add0bac545c4c37e5776dfd6') in 0.027519 seconds
+  Import took 0.029168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol 3.mat
+  artifactKey: Guid(1d5ba00fc4faf974683e148fbae9687e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol 3.mat using Guid(1d5ba00fc4faf974683e148fbae9687e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1482c599815ed4f537df0a9192c3aceb') in 0.028124 seconds
+  Import took 0.029727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol 4.mat
+  artifactKey: Guid(5f3f0e5e1954f1245899b52e6620d73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol 4.mat using Guid(5f3f0e5e1954f1245899b52e6620d73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb3fca623f44f4b314ec744420f0639') in 0.027722 seconds
+  Import took 0.029227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Museo/Materiales/MarcosPuerta.mat
+  artifactKey: Guid(88ffd120f7c3d8343a1693aaa331b8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/MarcosPuerta.mat using Guid(88ffd120f7c3d8343a1693aaa331b8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07013a00c619b844843d334856bf9338') in 0.027729 seconds
+  Import took 0.029392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Museo/Materiales/RicCerealUwU.mat
+  artifactKey: Guid(c74adc08361ccfe4898d96fe68eaef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/RicCerealUwU.mat using Guid(c74adc08361ccfe4898d96fe68eaef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790a4933bbf318543273771bf09ba6f2') in 0.009121 seconds
+  Import took 0.010801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Museo/Materiales/Piso_Decorado.mat
+  artifactKey: Guid(8f41288fc9365864e9c64f557285aca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Piso_Decorado.mat using Guid(8f41288fc9365864e9c64f557285aca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fe6ae3f2eaf86df8c2ffedbb909983') in 0.536018 seconds
+  Import took 0.538789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Museo/Materiales/Metal_Camera.mat
+  artifactKey: Guid(513c9baf45ca11145a5aa2d02048a0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Metal_Camera.mat using Guid(513c9baf45ca11145a5aa2d02048a0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89d7fcaec6c56d72d20949603436e46') in 0.032751 seconds
+  Import took 0.035030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Museo/Materiales/MaterialParedes.mat
+  artifactKey: Guid(47b308c50215c164c899fb9ec9858a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/MaterialParedes.mat using Guid(47b308c50215c164c899fb9ec9858a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933a649fbd99ef7a6f2700da5176dc8f') in 0.007203 seconds
+  Import took 0.008724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Museo/Materiales/Madera_Arbol.mat
+  artifactKey: Guid(e23e1daf004e0f34b9c1f8373976eb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Materiales/Madera_Arbol.mat using Guid(e23e1daf004e0f34b9c1f8373976eb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c05854607c7b150fd77e95ad565a08c') in 0.017999 seconds
+  Import took 0.019746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.306501 seconds.
+  path: Assets/Museo/Sombras
+  artifactKey: Guid(e4597dd5dc011c24f8039478b3814b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Museo/Sombras using Guid(e4597dd5dc011c24f8039478b3814b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7944aa9ff941244dc0d15dd0c1fa8f2e') in 0.002002 seconds
+  Import took 0.004876 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
